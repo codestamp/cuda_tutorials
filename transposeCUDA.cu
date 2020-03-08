@@ -1,4 +1,5 @@
 /*Transpose Matrix (row,per element and tiled)
+Udacity CS344 Solution on Transpose of matrix
 Autor: Munesh Singh
 Date: 08 March 2010
 */
