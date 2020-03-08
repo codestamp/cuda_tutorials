@@ -1,4 +1,8 @@
-/* Vector addition using cudaMallocPitch*/
+/* 
+Autor: Munesh Singh
+Date: 08 March 2010
+Vector addition using cudaMallocPitch
+*/
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <stdio.h>
