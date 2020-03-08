@@ -1,4 +1,5 @@
-# cuda_tutorials
-Contains code that can be used for teaching an undergraduate course in CUDA.
+# CUDA Tutorials
 
-The repository contains complete CUDA programs that can be used for teaching a 2 months program for undergraduate students. The pre-requisites are the basic programming skills in C and C++.
+Contains code that can be used for teaching an undergraduate course in GPU computing using CUDA framework.
+
+The repository contains complete running CUDA programs. The pre-requisites are the basic programming skills in C and C++.
